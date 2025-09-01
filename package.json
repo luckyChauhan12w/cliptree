@@ -1,0 +1,12 @@
+{
+  "name": "cliptree",
+  "version": "1.0.1",
+  "type": "module",
+  "bin": {
+    "cliptree": "index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "clipboardy": "^3.0.0"
+  }
+}
